@@ -1,6 +1,6 @@
 # coding: utf-8
 
-Gem::'jekyll-include-cache'
+Gem::Specification.new do |spec|
   spec.name                    = "minimal-mistakes-jekyll"
   spec.version                 = "4.16.6"
   spec.authors                 = ["Michael Rose"]
