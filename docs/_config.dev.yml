@@ -11,3 +11,5 @@ comments:
 
 sass:
   style: expanded
+  plugins:
+   - jekyll-include-cash
